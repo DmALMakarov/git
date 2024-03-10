@@ -31,7 +31,7 @@ git push origin main
   <img src="https://github.com/DmALMakarov/git/blob/main/img/img1.png" alt="Скриншот-1"/>
 </p>
 
-<b>Ссылка на коммит:</b>
+<b>Ссылка на коммит:</b> https://github.com/DmALMakarov/git/commit/95cf72d1362bed00e7abf7938ca7c1990dcf700a?diff=unified&w=0
 
 ---
 
@@ -53,7 +53,7 @@ git push origin main
 </p>
 
 
-<b>Ссылка на коммит:</b>
+<b>Ссылка на коммит:</b> https://github.com/DmALMakarov/git/commit/d56ee24bc698532e6fa50707577dc1d5f57b024b
 
 ---
 
@@ -107,6 +107,6 @@ git push origin main
   <img src="https://github.com/DmALMakarov/git/blob/main/img/img7.png" alt="Скриншот-7"/>
 </p>
 
-<b>Ссылка на граф:</b>
+<b>Ссылка на граф:</b> https://github.com/DmALMakarov/git/network
 
 
